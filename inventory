@@ -1,0 +1,4 @@
+web ansible_host=server1.company.com ansible_connection=ssh/winrm
+ansible_user
+ansible_ssh_pass=
+ansible_port
